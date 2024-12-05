@@ -93,7 +93,5 @@ int main()
 	cout << "Thank you for using our program" << endl;
 }
 
-	//MUAZ BWIDANI
-    //1306190101
 
 
