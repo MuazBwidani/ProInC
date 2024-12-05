@@ -20,6 +20,3 @@ bool test(int x)
 		cout << x << "  is not a prime number " << endl;
 	return 0;
 }
-//Name and Sorname : MUAZ BWIDANI
-//Student Number : 1306190101
-//Homework 7
