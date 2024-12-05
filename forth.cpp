@@ -34,6 +34,3 @@ int main()
 
 }
 
-//Name And SurNAme :MUAZ BWIDANI
-//Student Number   :1306190101
-//6 Homwork Calculat
