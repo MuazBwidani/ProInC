@@ -1,6 +1,3 @@
-﻿// Fourth Hw 
-//Ad / SoyAd : MUAZ BWIDANI
-//Öğrenci Num : 1306190101
 
 #include <iostream>
 #include <time.h>
