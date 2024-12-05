@@ -53,7 +53,3 @@ int main()
   
 }
 
-//Name surname: MUAZ BWIDANI
-//Student ID: 1306190101
-// Date: 05/15/2022
-//Assignment name :Lab Assignment #2
